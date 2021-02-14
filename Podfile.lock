@@ -1,0 +1,18 @@
+PODS:
+  - ACPCore (2.9.0):
+    - ACPCore/main (= 2.9.0)
+  - ACPCore/main (2.9.0)
+
+DEPENDENCIES:
+  - ACPCore
+
+SPEC REPOS:
+  trunk:
+    - ACPCore
+
+SPEC CHECKSUMS:
+  ACPCore: e73b529b015de094d176285efbf2cca3bdbf532b
+
+PODFILE CHECKSUM: 183ef22abc5f40e59a094107fa04d800d6ab10b1
+
+COCOAPODS: 1.10.0
